@@ -1,0 +1,17 @@
+下载Git，从官方网站下载Git并安装，安装以后在windows 目录点右键快捷菜单会有Git相应的功能
+怎样使用windows下的git
+
+进入Git Gui，配置git的用户名和邮箱
+怎样使用windows下的git
+
+初始化一个Git代码库，创建一个文件夹并进入，点击右键"Git init here",然后会创建一个代码仓库
+怎样使用windows下的git
+
+添加文件，任何文件都可以，git会记录文件操作的状态。 进入"Git Gui"
+怎样使用windows下的git
+
+选择未缓存的改动列表，添加注释并提交改动
+怎样使用windows下的git
+
+把提交的改动上传到服务器，比如github
+怎样使用windows下的git
