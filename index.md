@@ -11,11 +11,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-如何搭建属于自己的自己的Github
+如何搭建属于自己的Github
 
-参考：http://blog.csdn.net/li740207611/article/details/52142852
+参考的主要资料：http://blog.csdn.net/li740207611/article/details/52142852
 
-nodeJs的安装教程，http://www.jianshu.com/p/b7886271e21a
+细节部分请看下面的连接：
+1、git的安装和配置
+2、nodejs的安装教程，http://caibaojian.com/nodejs-roll-back.html
+3、Hexo的安装教程，http://www.jianshu.com/p/b7886271e21a
 
 
 ## Header 2
