@@ -18,7 +18,9 @@ Syntax highlighted code block
 细节部分请看下面的连接：
 1、git的安装和配置
 2、nodejs的安装教程，http://caibaojian.com/nodejs-roll-back.html
-3、Hexo的安装教程，http://www.jianshu.com/p/b7886271e21a
+3.1、Hexo的安装教程，http://www.jianshu.com/p/b7886271e21a
+3.2、Hexo的常见问题，http://xuanwo.org/2014/08/14/hexo-usual-problem/
+
 
 
 ## Header 2
