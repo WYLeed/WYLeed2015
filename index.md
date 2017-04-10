@@ -21,7 +21,7 @@ Syntax highlighted code block
 3.1、Hexo的安装教程，http://www.jianshu.com/p/b7886271e21a；
 3.2、Hexo成功安装：http://www.jianshu.com/p/df3edc4286d2
 3.3、Hexo的常见问题，http://xuanwo.org/2014/08/14/hexo-usual-problem/
-
+3.4、Hexo连接GitHub：http://www.jianshu.com/p/465830080ea9
 
 
 ## Header 2
